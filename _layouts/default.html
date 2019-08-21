@@ -6,16 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {dataLayer.push(arguments)}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-    </script>
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="alternate" href="/atom.xml" type="application/atom+xml" title="Atom">
   </head>
   <body>
     <div class="wrapper">
@@ -29,5 +21,13 @@
         {{ content }}
       </section>
     </div>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {dataLayer.push(arguments)}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+    </script>
   </body>
 </html>
