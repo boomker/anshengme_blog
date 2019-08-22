@@ -9,7 +9,7 @@
 
 ## 2019
 
-- [Docker安装及配置GitLab](/article/docker-installs-and-configures-gitlab)
+- 2019年08月22日 [Docker安装及配置GitLab](/article/docker-installs-and-configures-gitlab)
 - 2019年05月26日 [macOS服务管理brew services用法](/article/macos-service-management-brew-services-usage) 
 - 2019年05月23日 [在Django中集成Celery与Celery-Beat](/article/integrate-celery-and-celery-beat-in-django) 
 - 2019年05月15日 [Python获取当前时间戳以及转换](/article/how-to-get-current-timestamp-and-conversion-in-python)
