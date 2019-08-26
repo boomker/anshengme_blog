@@ -101,3 +101,12 @@ $ pg_dump -U postgres -d mydb | gzip > mydb.pgsql.gz
 ```bash
 $ gunzip -c mydb.pgsql.gz | psql -U postgres -d mydb
 ```
+
+- 一个简单的备份脚本
+
+```shell
+file_name="db-`date +%F-%H-%M-%S`.sql"
+export PGPASSWORD="xxxxxxxxxx"
+
+pg_dump -h 127.0.0.1 -U db -w -F p db > ~/.backup/$file_name
+```
