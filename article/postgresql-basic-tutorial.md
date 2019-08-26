@@ -400,3 +400,11 @@ select
   count(1) filter (where active is true and beta is false) -- Count active non-beta users
 from users
 ```
+
+## 创建用户及授权
+
+```sql
+create database DB_NAME;
+create user DB_USER with encrypted password 'USER_PASSWORD';
+grant all privileges on database DB_NAME to DB_USER;
+```
