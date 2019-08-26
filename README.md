@@ -9,6 +9,7 @@
 
 ## 2019
 
+- 2019年08月26日 [PostgreSQL 备份与恢复](//blog.ansheng.me/article/postgresql-backup-and-restore)
 - 2019年08月26日 [PostgreSQL 基础教程](//blog.ansheng.me/article/postgresql-basic-tutorial)
 - 2019年08月25日 [PostgreSQL 根据 date/datetime 类型查询的几种方式](//blog.ansheng.me/article/postgresql-queries-based-on-date-datetime-type)
 - 2019年08月23日 [Nginx隐藏版本号信息](//blog.ansheng.me/article/nginx-hidden-version-number-info)
