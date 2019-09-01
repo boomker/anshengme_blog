@@ -38,6 +38,9 @@ strict-order
 
 # 监听的IP地址
 listen-address=127.0.0.1
+# 如果坚挺的不是localhost，把下面两行注视掉
+interface=lo
+bind-interfaces
 
 # 设置缓存大小
 cache-size=10240
