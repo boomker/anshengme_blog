@@ -8,7 +8,11 @@
 
 > 摘录自[维基百科](https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B)
 
+<<<<<<< HEAD
 ![1483069521](/images/2016/12/1483069521.png)
+=======
+![osi](../images/2016/12/1483069521.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 第7层应用层(Application Layer)
 
@@ -67,13 +71,21 @@ TCP/IP提供点对点的链接机制，将数据应该如何封装、定址、�
 
 > 摘录自[维基百科](https://zh.wikipedia.org/wiki/TCP/IP%E5%8D%8F%E8%AE%AE%E6%97%8F)
 
+<<<<<<< HEAD
 ![1483069588](/images/2016/12/1483069588.png)
+=======
+![tcp-ip](../images/2016/12/1483069588.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 在建立TCP连接之前需要进行三次握手，以便于链接到服务器，如果要断开服务器需要进行四次挥手，具体流程如下。
 
 ### TCP/IP三次握手
 
+<<<<<<< HEAD
 ![1483069609](/images/2016/12/1483069609.png)
+=======
+![TCP-IP-three-way-handshake](../images/2016/12/1483069609.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 1. **第一次握手：** Client将标志位syn设置为1，随机产生一个Number值seq=100，并将数据发送给Server，Client进入SYN_SENT状态，等待Server确认；
 2. **第二次握手：** Server收到数据包后Client设置的标志位syn=1知道Client要求建立连接，Server将标志位syn和ack都置为1，并且发送一个确认序号ack=100+1，然后随机产生一个值seq=130，并将该数据包发送给CLient以确认连接请求，Server进入SYN_RCVD状态。

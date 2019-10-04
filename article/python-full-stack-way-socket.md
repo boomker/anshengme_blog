@@ -123,4 +123,8 @@ obj.connect(('127.0.0.1', 6254, ))
 obj.close()
 ```
 输出的结果:
+<<<<<<< HEAD
 ![socket-01](/images/2016/12/1483021625.png)
+=======
+![socket-01](../images/2016/12/1483021625.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

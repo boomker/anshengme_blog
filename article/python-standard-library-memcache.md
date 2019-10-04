@@ -277,7 +277,11 @@ input('>>>')
 conn2.cas('n', 100)
 ```
 执行效果如下图：
+<<<<<<< HEAD
 ![python-memcache-03](/images/2016/12/1483067689.gif)
+=======
+![python-memcache-03](../images/2016/12/1483067689.gif)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 多节点的操作
 
@@ -316,7 +320,11 @@ conn.set('k', 'v')
 
 如图所示
 
+<<<<<<< HEAD
 ![python-memcache-02](/images/2016/12/1483067656.png)
+=======
+![python-memcache-02](../images/2016/12/1483067656.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 ```python
 # 将字符串转换为数字模块
@@ -495,4 +503,8 @@ class Session:
         return SessionData
 ```
 演示如下：
+<<<<<<< HEAD
 ![python-memcache-04](/images/2016/12/1483067610.gif)
+=======
+![python-memcache-04](../images/2016/12/1483067610.gif)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

@@ -36,7 +36,11 @@ obj.ret()
 
 类的内存地址对应关系
 
+<<<<<<< HEAD
 ![object-oriented-basis-01](/images/2016/12/1483020680.png)
+=======
+![object-oriented-basis-01](../images/2016/12/1483020680.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 ## 面向对象之self
 
@@ -75,7 +79,11 @@ Process finished with exit code 0
 
 如图
 
+<<<<<<< HEAD
 ![object-oriented-basis-02](/images/2016/12/1483020708.png)
+=======
+![object-oriented-basis-02](../images/2016/12/1483020708.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 `self`是形式参数，有Python自行传递。
 
@@ -358,8 +366,16 @@ Process finished with exit code 0
 
 - **顶层两个类没有父类的情况**
 
+<<<<<<< HEAD
 ![object-oriented-basis-03](/images/2016/12/1483020761.png)
 
 - **顶层两个类有父类的情况**
 
 ![object-oriented-basis-04](/images/2016/12/1483020781.png)
+=======
+![object-oriented-basis-03](../images/2016/12/1483020761.png)
+
+- **顶层两个类有父类的情况**
+
+![object-oriented-basis-04](../images/2016/12/1483020781.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

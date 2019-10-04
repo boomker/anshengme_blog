@@ -1221,7 +1221,11 @@ if __name__ == "__main__":
     tornado.ioloop.IOLoop.instance().start()
 ```
 数据缓存5秒，如图所示
+<<<<<<< HEAD
 ![redis-02](/images/2016/12/1483068298.gif)
+=======
+![redis-02](../images/2016/12/1483068298.gif)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 基于Redis的Session存储
 
@@ -1379,4 +1383,8 @@ class Session:
 ```
 
 演示如图：
+<<<<<<< HEAD
 ![redis-03](/images/2016/12/1483068252.gif)
+=======
+![redis-03](../images/2016/12/1483068252.gif)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

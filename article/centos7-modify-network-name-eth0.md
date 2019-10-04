@@ -8,11 +8,19 @@ CentOS7默认的网卡名称是和设备名称是随机的，如果要修改网�
 
 点击 Tab，打开kernel启动选项，
 
+<<<<<<< HEAD
 ![1483017802](/images/2016/12/1483017802.png)
 
 增加内核参数：`net.ifnames=0` `biosdevname=0`
 
 ![1483017802](/images/2016/12/1483017825.png)
+=======
+![centos7-eth-01](../images/2016/12/1483017802.png)
+
+增加内核参数：`net.ifnames=0` `biosdevname=0`
+
+![centos7-eth-02](../images/2016/12/1483017825.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 输入完成之后回车正常安装操作系统就好了。
 

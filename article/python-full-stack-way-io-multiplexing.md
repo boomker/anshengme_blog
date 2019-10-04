@@ -1,6 +1,10 @@
 # Python全栈之路系列之IO多路复用
 
+<<<<<<< HEAD
 ![io-multiplexing-01](/images/2016/12/1483022063.png)
+=======
+![io-multiplexing-01](../images/2016/12/1483022063.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 ## What is IO Multiplexing?
 

@@ -189,7 +189,11 @@ ret = Selector(response=response).xpath('//li[re:test(@class, "item-\d*")]//@hre
 
 递归查找
 
+<<<<<<< HEAD
 ![scrapy-level](/images/2016/12/1483065549.png)
+=======
+![scrapy-level](../images/2016/12/1483065549.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 设置查找深度：修改`settings.py`配置文件，加入以下参数指定深度`DEPTH_LIMIT = 1`
 
@@ -205,4 +209,8 @@ ret = Selector(response=response).xpath('//li[re:test(@class, "item-\d*")]//@hre
 
 如图所示：
 
+<<<<<<< HEAD
 ![scrapy-format](/images/2016/12/1483065578.png)
+=======
+![scrapy-format](../images/2016/12/1483065578.png)
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

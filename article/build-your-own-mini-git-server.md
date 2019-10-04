@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 搭建自己的小型Git Server
+=======
+# 搭建自己的小型Git Server
+>>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 下面我们将会在自己的服务器`（CentOS7）`上面搭建一个自己的`Git服务器`，环境如下：
 
