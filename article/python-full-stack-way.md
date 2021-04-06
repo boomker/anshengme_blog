@@ -1,6 +1,5 @@
 # Python全栈之路
 
-<<<<<<< HEAD
 ## 基础篇
 
 1. [Python基础系列之开篇](/article/python-full-stack-way-basics)
@@ -36,13 +35,11 @@
 10. [Python基础系列之函数](https://blog.ansheng.me/article/python-full-stack-way-function)
 11. [Python基础系列之模块默认全局变量](https://blog.ansheng.me/article/python-standard-library-default-global-variables)
 12. [Python基础系列之内置函数](https://blog.ansheng.me/article/python-full-stack-way-built-in-functions)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 -------------------------
 
 ## 进阶篇
 
-<<<<<<< HEAD
 1. [Python进阶系列之文件操作](/article/python-full-stack-way-file-operations)
 2. [Python进阶系列之递归](/article/python-full-stack-way-recursion)
 3. [Python进阶系列之装饰器](/article/python-full-stack-way-decorator)
@@ -60,7 +57,6 @@
 6. [Python进阶系列之迭代器与生成器](https://blog.ansheng.me/article/python-full-stack-way-Iterators-and-generators)
 7. [Python进阶系列之反射](https://blog.ansheng.me/article/python-full-stack-way-reflection)
 8. [Python进阶系列之异常处理](https://blog.ansheng.me/article/python-full-stack-way-exception-handling)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 -------------------------
 
@@ -80,13 +76,11 @@
 4. [Python面向对象系列之特殊成员](https://blog.ansheng.me/article/python-full-stack-way-object-special-members)
 5. [Python面向对象系列之类成员特性](https://blog.ansheng.me/article/python-full-stack-way-class-members-characteristic)
 6. [Python面向对象系列之运算符重载](https://blog.ansheng.me/article/python-full-stack-way-object-operator-overload)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 -------------------------
 
 ## 网络编程篇
 
-<<<<<<< HEAD
 1. [Python网络编程系列之socket](/article/python-full-stack-way-socket)
 2. [Python网络编程系列之基于socket实现聊天机器人](/article/python-full-stack-way-socket-chatterbot)
 3. [Python网络编程系列之基于socket实现文件上传](/article/python-full-stack-way-socket-file-upload)
@@ -113,23 +107,19 @@
 4. [Python数据结构与算法系列之选择排序](https://blog.ansheng.me/article/python-data-structure-and-algorithm-series-selection-sort)
 5. [Python数据结构与算法系列之插入排序](https://blog.ansheng.me/article/python-data-structure-and-algorithm-series-insertion-sort)
 6. [Python数据结构与算法系列之归并排序](https://blog.ansheng.me/article/python-data-structure-and-algorithm-series-merge-sort)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 -------------------------
 
 ## 设计模式篇
 
-<<<<<<< HEAD
 1. [Python设计模式之单例设计模式](/article/python-full-stack-way-singleton-design-pattern)
 =======
 1. [Python设计模式之单例设计模式](https://blog.ansheng.me/article/python-full-stack-way-singleton-design-pattern)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 -------------------------
 
 ## Python标准库
 
-<<<<<<< HEAD
 1. [Python标准库系列之介绍](/article/python-standard-library-introduction)
 2. [Python标准库系列之os](/article/python-standard-library-os)
 3. [Python标准库系列之sys](/article/python-standard-library-sys)
@@ -163,13 +153,11 @@
 14. [Python标准库系列之hashlib](https://blog.ansheng.me/article/python-standard-library-hashlib)
 15. [Python标准库系列之logging](https://blog.ansheng.me/article/python-standard-library-logging)
 16. [Python标准库系列之collections](https://blog.ansheng.me/article/python-standard-library-collections)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 -------------------------
 
 ## Python第三方库
 
-<<<<<<< HEAD
 1. [Python第三方库系列之MySQLdb](/article/python-standard-library-mysqldb)
 2. [Python第三方库系列之Paramiko](/article/python-standard-library-paramiko)
 3. [Python第三方库系列之Memcache](/article/python-standard-library-memcache)
@@ -189,4 +177,3 @@
 8. [Python第三方库系列之requests](https://blog.ansheng.me/article/python-standard-library-requests)
 
 -------------------------
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
