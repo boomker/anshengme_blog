@@ -156,13 +156,5 @@
 6. [Python 第三方库系列之 RabbitMQ](/article/python-full-stack-way-rabbitmq.md)
 7. [Python 第三方库系列之 scrapy](/article/python-full-stack-way-scrapy.md)
 8. [Python 第三方库系列之 requests](/article/python-standard-library-requests.md)
-9. [Python 第三方库系列之 MySQLdb](/article/python-standard-library-mysqldb.md)
-10. [Python 第三方库系列之 Paramiko](/article/python-standard-library-paramiko.md)
-11. [Python 第三方库系列之 Memcache](/article/python-standard-library-memcache.md)
-12. [Python 第三方库系列之 Redis](/article/python-standard-library-redis.md)
-13. [Python 第三方库系列之 SQLAlchemy](/article/python-full-stack-way-sqlalchemy.md)
-14. [Python 第三方库系列之 RabbitMQ](/article/python-full-stack-way-rabbitmq.md)
-15. [Python 第三方库系列之 scrapy](/article/python-full-stack-way-scrapy.md)
-16. [Python 第三方库系列之 requests](/article/python-standard-library-requests.md)
 
 ---
