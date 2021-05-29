@@ -1,6 +1,5 @@
 # 记一些杂技（持续更新）
 
-<<<<<<< HEAD
 =======
 - 命令行连接shadowsocks客户端
 
@@ -24,14 +23,12 @@ npm install -gd package --registry=http://registry.npm.taobao.org
 npm config set registry http://registry.npm.taobao.org
 ```
 
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 - 查看sqlite表结构
 
 ```sql
 .schema tab_name
 ```
 
-<<<<<<< HEAD
 =======
 - Ubuntu chromium安装Flash
 
@@ -54,7 +51,6 @@ sudo alien xxx.rpm
 gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-minimize-window true
 ```
 
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 - Linux制作U盘镜像
 
 ```bash
@@ -79,7 +75,6 @@ export LANG_ALL=en_US.utf8
 export LC_ALL=en_US.utf8
 ```
 
-<<<<<<< HEAD
 =======
 - 修改Linux PS1前缀
 
@@ -88,7 +83,6 @@ export LC_ALL=en_US.utf8
 PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
 ```
 
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 - 命令行设置代理
 
 ```bash
@@ -112,7 +106,6 @@ machine IP
 pip install -U $(pip freeze | awk '{split($0, a, "=="); print a[1]}')
 ```
 
-<<<<<<< HEAD
 - 普通用户执行docker
 
 ```bash
@@ -212,4 +205,3 @@ $ firewall-cmd --zone=public --remove-port=80/tcp --permanent
 ```bash
 $ firewall-cmd --reload
 ```
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

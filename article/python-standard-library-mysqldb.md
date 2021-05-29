@@ -4,11 +4,9 @@ MySQLdb模块的主要功能就是提供Python操作MySQL数据库的一个API,�
 
 MySQLdb工作流程如下:
 
-<<<<<<< HEAD
 ![mysqldb-01](/images/2016/12/1483022284.png)
 =======
 ![mysqldb-01](../images/2016/12/1483022284.png)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
  ## connection
 
@@ -62,11 +60,9 @@ MySQLdb.Connect(参数)
 
 `cursor`用户执行查询和获取结果,执行流程如下:
 
-<<<<<<< HEAD
 ![mysqldb-02](/images/2016/12/1483022315.png)
 =======
 ![mysqldb-02](../images/2016/12/1483022315.png)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 **cursor对象所支持的方法**
 
@@ -165,11 +161,9 @@ mysql> SELECT * FROM user;
 
 流程图:
 
-<<<<<<< HEAD
 ![mysqldb-03](/images/2016/12/1483022364.png)
 =======
 ![mysqldb-03](../images/2016/12/1483022364.png)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 ```python
 >>> import MySQLdb

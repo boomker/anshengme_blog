@@ -75,7 +75,6 @@ urlpatterns = [
 
 `URL`配置倒没什么好解释的，打开`Safari`浏览器，输入`http://127.0.0.1:8000/rss.xml`与`http://127.0.0.1:8000/atom.xml`将得到两种不同类型的订阅:
 
-<<<<<<< HEAD
 ![1483793245](/images/2017/01/1483793245.png)
 
 点击`添加`，
@@ -95,7 +94,6 @@ urlpatterns = [
 然后你所有的文章就被添加到订阅列表了，但是我不知道为什么`谷歌浏览器`解析出来的却不是标准的`rss.xml`文档，而显示的是字符串：
 
 ![chorm-rss](../images/2017/01/1483793337.png "chorm-rss")
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 ## 站点地图
 
@@ -153,10 +151,8 @@ INSTALLED_APPS = [
 
 最后打开你的浏览器，输入`https://blog.ansheng.me/sitemap.xml`(请替换成你自己的链接)，然后就可以看到`sitemap`信息了。
 
-<<<<<<< HEAD
 ![1483793688](/images/2017/01/1483793688.png)
 =======
 ![django-sitemap](../images/2017/01/1483793688.png "django-sitemap")
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 好了，到此结束，内容比较简单，希望能够帮到你~

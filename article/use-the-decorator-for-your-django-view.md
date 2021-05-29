@@ -194,7 +194,6 @@ $ python3 manage.py createsuperuser
 
 打开`http://127.0.0.1:8000/admin/`页面，输入刚才创建好的超级管理员账号与密码，登录进去之后创建两个用户，密码随意：
 
-<<<<<<< HEAD
 ![1484572862](/images/2017/01/1484572862.png)
 
 退回上一级页面，添加三篇文章
@@ -222,4 +221,3 @@ $ python3 manage.py createsuperuser
 打开`http://127.0.0.1:8000/blog/`页面，试着删除不是其他用户的文章，看看是什么结果。
 
 ![yanshi](../images/2017/01/1484572921.gif "yanshi")
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

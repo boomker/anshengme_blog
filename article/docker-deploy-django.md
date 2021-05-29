@@ -60,21 +60,17 @@ $ docker-compose up
 
 下面是启动的截图
 
-<<<<<<< HEAD
 ![1513680839](/images/2017/12/1513680839.png)
 =======
 ![1513680839](../images/2017/12/1513680839.png)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 - 访问
 
 打开浏览器，访问：`http://localhost:9999`，截图如下：
 
-<<<<<<< HEAD
 ![1513680873](/images/2017/12/1513680873.png)
 =======
 ![1513680873](../images/2017/12/1513680873.png)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 我好向不会告诉你具体哪一步如何操作是什么意思，因为我觉得你可以通过GitHub上的[源码](https://github.com/anshengme/docker-deploy-django)来进行学习。
 

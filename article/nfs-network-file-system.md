@@ -20,11 +20,9 @@ NFS的主要功能是通过网络让不同的主机系统之间可以彼此共�
 
 NFS的RPC服务在CentOS5.x下名称为portmap，在CentOS6.x下名称为rocbind
 
-<<<<<<< HEAD
 ![nfs-rpc](/images/2016/12/1483011827504.png)
 =======
 ![nfs-rpc](../images/2016/12/1483011827504.png "nfs-rpc")
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 ## NFS在企业中的应用场景
 

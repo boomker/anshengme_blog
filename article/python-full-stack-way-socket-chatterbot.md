@@ -95,8 +95,6 @@ obj.close()
 
 执行结果
 
-<<<<<<< HEAD
 ![socket-02](/images/2016/12/1483021707.png)
 =======
 ![socket-02](../images/2016/12/1483021707.png)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789

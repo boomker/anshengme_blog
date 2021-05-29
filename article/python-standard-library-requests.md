@@ -53,11 +53,9 @@ sudo pip3 install gunicorn httpbin
 
 打开浏览器输入``将会得到以下页面，相当于在本地启动一个http server便于学习requests模块
 
-<<<<<<< HEAD
 ![requests-01](/images/2016/12/1483018481.png)
 =======
 ![requests-01](../images/2016/12/1483018481.png)
->>>>>>> 7eaaa1014a512ac2ac05eb42f8cfa7e94fa99789
 
 ## 简单的一个requests小程序
 
